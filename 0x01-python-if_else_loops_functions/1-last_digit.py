@@ -12,4 +12,3 @@ elif l_digit == 0:
 else:
     out_string += "and is less than 6 and not 0"
     print(out_string)
-    
